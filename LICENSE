@@ -1,0 +1,104 @@
+EnvMesh Source-Available License 1.0
+Copyright (c) 2026 RPDJF
+
+This License governs the use of the EnvMesh software and associated
+documentation files (the “Software”).
+
+By copying, using, modifying, or distributing the Software, you agree
+to the terms of this License.
+
+1. Definitions
+
+“Licensor” means RPDJF.
+
+“Organization” means a single legal entity, including its employees,
+officers, and contractors acting on its behalf.
+
+“Internal Use” means use of the Software solely within an Organization
+for its own internal operations and business purposes, without providing
+access to the Software or its functionality to third parties.
+
+2. Grant of Rights
+
+Subject to the terms of this License, the Licensor hereby grants you a
+non-exclusive, royalty-free right to:
+
+a) use the Software for personal, private, or educational purposes;
+
+b) use, modify, and self-host the Software for Internal Use within an
+   Organization;
+
+c) copy and modify the Software for the purposes permitted above.
+
+3. Commercial Use (Internal Only)
+
+Commercial use of the Software is permitted only for Internal Use within
+an Organization.
+
+The Software may not be used to provide services, access, or functionality
+to third parties, whether for payment or free of charge.
+
+4. Prohibited Uses
+
+You may not, directly or indirectly:
+
+a) sell, sublicense, or monetize the Software;
+
+b) sell access to the Software or its functionality;
+
+c) host or operate the Software as a service (including SaaS, PaaS, or
+   similar offerings);
+
+d) provide hosted instances or access to the Software to customers,
+   clients, or third parties;
+
+e) include the Software in a product or service that provides access to
+   third parties.
+
+5. Distribution
+
+You may redistribute the Software, in original or modified form, provided
+that:
+
+a) this License is included in full;
+
+b) the Software is distributed free of charge;
+
+c) no paid hosting, paid access, or monetized service is offered;
+
+d) no additional restrictions are imposed on recipients beyond those
+   stated in this License.
+
+6. Ownership
+
+The Software is licensed, not sold. All rights not expressly granted
+under this License are reserved by the Licensor.
+
+7. Future License Versions
+
+The Licensor may publish revised versions of this License for future
+releases of the Software.
+
+Any version of the Software released under this License may continue to
+be used under the terms applicable at the time of its release.
+
+8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+10. Governing Law and Jurisdiction
+
+This License shall be governed by and construed in accordance with the
+laws of Switzerland, excluding its conflict of law provisions.
+
+The exclusive place of jurisdiction for all disputes arising out of or
+in connection with this License shall be the courts of Switzerland.
