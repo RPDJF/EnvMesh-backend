@@ -1,0 +1,8 @@
+include:
+  - "./projects/envmesh-api/docker-compose.yml"
+  - "./projects/database/docker-compose.yml"
+
+networks:
+  envmesh-net:
+    name: "envmesh-net"
+    driver: bridge
